@@ -1,0 +1,1 @@
+execute "defaults write /Library/Preferences/com.apple.loginwindow LoginwindowText 'This device is property of Shutterstock, Inc. Failed login attempts are logged and your photo will be taken. - Shutterstock Security'"
